@@ -1,0 +1,44 @@
+/*General*/
+
+body{
+    margin: 5vw;
+    text-align: center;
+}
+
+main {
+    padding-top: 3vw;
+    background: linear-gradient(to top, #CDE8F1, #FEEAF4);
+    border-radius: 2vw;
+}
+
+h1{
+    font-family: 'VT323', monospace;
+    font-size:4vw;
+    color: white;
+}
+
+a{
+    position: relative;
+    font-family: 'VT323', monospace;
+    color: #F3E5EE;
+    font-size:10vw;
+    display: block;
+    text-decoration: none;
+}
+
+img {
+    margin: 5vw 5vw 5vw 5vw;
+    border: 5px solid white;
+}
+
+button {
+    border:none;
+    border-radius: 2vw;
+}
+
+:hover {
+    filter: hue-rotate(80deg);
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+}
+
