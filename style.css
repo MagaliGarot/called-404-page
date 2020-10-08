@@ -39,6 +39,12 @@ button {
     border-radius: 2vw;
 }
 
+/*effect*/
+
+h1 {
+
+}
+
 img:hover {
     filter: hue-rotate(80deg);
 }
@@ -47,4 +53,6 @@ button:hover{
     background-color: #7BEDFA ;
 }
 
+@keyframes h1 {
 
+    }
