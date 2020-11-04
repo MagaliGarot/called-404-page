@@ -3,7 +3,7 @@
 # Lien vers le projet :
 https://magaligarot.github.io/called-404-page/
 
-![404](..home/magaligarot/BeCode/called-404-page/404error.png)
+![404](404error.png)
 
 # Le projet :
 
